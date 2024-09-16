@@ -91,7 +91,7 @@ class _CalculatorState extends State<Calculator> {
             style: TextStyle(
               fontSize: 35,
               fontWeight: FontWeight.bold,
-              color: const Color.fromARGB(255, 255, 255, 255), // Text color
+              color: const Color.fromARGB(255, 59, 62, 156), // Text color
             ),
           ),
         ),
